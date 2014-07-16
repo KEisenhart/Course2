@@ -1,4 +1,3 @@
 Course2
 =======
-
-Course2 assignments live here
+Trying to git this onto my laptop for mods then to push back up 
